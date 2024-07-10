@@ -53,11 +53,8 @@ If you would like to contribute to this project, please fork the repository and 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ### Contact
-For any questions or feedback, please contact [your email address].
+For any questions or feedback, please contact gurutandlekar@gmail.com
 
----
-
-Feel free to customize this README file further based on specific details and requirements of your project.
 
 Citations:
 [1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/24108712/fea268fb-dfed-4a5a-a2a3-f4b184a89f45/Clustering%20on%20TripAdvisor%20Reviews.ipynb
